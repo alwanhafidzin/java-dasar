@@ -1,9 +1,9 @@
 # java-dasar
-#Full Source Code Untuk Belajar Dasar Java 
-#Urutan Materi  :
-#1.Program Hello World
-#2.Tipe Data Number
-#3.Tipe Data Character
+<p>Full Source Code Untuk Belajar Dasar Java</p>
+Urutan Materi  :
+1.Program Hello World
+2.Tipe Data Number
+3.Tipe Data Character
 4.Tipe Data Boolean
 5.Tipe Data String
 6.Variable
