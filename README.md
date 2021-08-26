@@ -3,8 +3,8 @@ Full Source Code Untuk Belajar Dasar Java
 
 Urutan Materi  :
 
-1.Program Hello World
-https://github.com/alwanhafidzin/java-dasar/blob/main/src/HelloWorld.java
+1.Program Hello World : https://github.com/alwanhafidzin/java-dasar/blob/main/src/HelloWorld.java
+
 2.Tipe Data Number
 
 3.Tipe Data Character
